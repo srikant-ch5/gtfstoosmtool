@@ -1,0 +1,17 @@
+Django==2.0.5
+multigtfs
+psycopg2==2.7.3.2
+whitenoise==3.3.1
+python-decouple==3.1
+dj-database-url>=0.4.2
+lxml
+geojson
+django-leaflet
+django-geojson==2.11.0
+lxml
+ordered_set
+flup6
+requests
+urllib3
+overpy
+djangorestframework==3.8.2
